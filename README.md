@@ -6,7 +6,7 @@ Ashf (Amit's Stupid HTTP Framework) is a minimal HTTP server I built for educati
 * Koa.js-like philosophy
 * Very, very simple
 * Gzip content-encoding support
-* Proven secure using Google's [Atheris](https://github.com/google/atheris) fuzzer
+* Proven robust using Google's [Atheris](https://github.com/google/atheris) fuzzer
 
 ## Example Application
 
